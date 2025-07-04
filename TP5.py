@@ -6,7 +6,7 @@ from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
 
 # Config
-API_URL = "http://localhost:5000" 
+API_URL = "https://appservice-michael-gugrhzarfge5hmb4.canadacentral-01.azurewebsites.net/" 
 
 MONGODB_URI = os.getenv("MONGODB_URI", "mongodb+srv://sdv_user:SDV2025@cluster0.t2ptc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
