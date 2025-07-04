@@ -1,3 +1,4 @@
+# Travail réalisé par Clément Guegan-Viault et Michaël Lapeyrère
 import streamlit as st
 import requests
 import json
